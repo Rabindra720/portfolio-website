@@ -1,30 +1,33 @@
-# Responsive Portfolio Website Bianca
+# Rabindra - Modern Responsive Portfolio Website
 
-This project is part of a step-by-step YouTube tutorial in which we build a responsive portfolio website Bianca from scratch using HTML, CSS and JavaScript.
+A modern, high-performance, and fully responsive portfolio website built with HTML5, CSS3 (Custom Properties & Flexbox/CSS Grid), and JavaScript.
 
-## 🎬 [Watch the Demo & Code](https://youtu.be/JSFIGIA9Zrk) 
+![Portfolio Preview](preview.png)
 
-![preview img](/preview.png) 
+## 📌 Features
+- **Responsive Layout**: Designed mobile-first, adapting seamlessly from smartphones to 4K displays.
+- **Dynamic Typing Animation**: Powered by Typed.js.
+- **Interactive Work Carousel**: Swiper.js integration with touch swipe and custom pagination.
+- **Collapsible Services**: Interactive accordion cards with smooth transitions.
+- **Infinite Testimonial Marquee**: Seamless auto-scrolling testimonial slider with hover-to-pause.
+- **Glassmorphism & Neon Glow**: Modern dark UI aesthetic with customizable CSS HSL color modes.
+- **ScrollReveal Animations**: Smooth entrance triggers on scroll.
+- **Contact Form**: Integrated contact form with feedback alerts.
 
-## 📌 Project Features
-- Fully responsive portfolio website Bianca (Mobile First Methodology).
-- Clear and semantic HTML structure.
-- Use of CSS variables and modern JavaScript functions.
-- Smooth scrolling between sections.
-- Scroll animations.
-- Compatible with all modern browsers and devices.
+## 🚀 Live Demo & Deployment
+- Deploy easily to **Render**, **Vercel**, **Netlify**, or **GitHub Pages**.
 
-## 📦 Download the resources directly
-1. Click the green **code** button.
-2. Click **Download ZIP**.
-3. Extract the ZIP file and open the project in your code editor.
+## 🛠️ Built With
+- **HTML5** (Semantic structure)
+- **CSS3** (CSS Variables, Flexbox, Grid, Keyframe Animations)
+- **JavaScript (ES6+)**
+- **Libraries**:
+  - [Remix Icon](https://remixicon.com/)
+  - [Swiper JS](https://swiperjs.com/)
+  - [Typed.js](https://github.com/mattboldt/typed.js/)
+  - [ScrollReveal](https://scrollrevealjs.org/)
+  - [EmailJS](https://www.emailjs.com/)
 
-## 📥 Clone or Fork the repository
-You can **clone** the repository to your local machine or **fork** it in your GitHub account to get all the project's resources.
-
-```bash
-# Clone the repository using HTTPS
-git clone https://github.com/bedimcode/responsive-porfolio-website-Bianca.git
-```
-
-Designed & developed with ❤️ by **[Bedimcode](https://www.youtube.com/@Bedimcode)** 
+---
+Designed & developed with ❤️ by **[Rabindra](https://github.com/Rabindra720)**.
+ 
