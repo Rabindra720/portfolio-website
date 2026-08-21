@@ -158,7 +158,7 @@ img {
   font-weight: var(--font-semi-bold);
   font-family: var(--second-font);
   cursor: pointer;
-  transition: box-shadow .4s, transform .3s;
+  transition: box-shadow .4s, transform .3s, background-color .4s, border-color .4s, color .4s;
 }
 
 .button:hover {
@@ -173,6 +173,19 @@ img {
 
 .button:hover i {
   transform: translateX(.25rem);
+}
+
+.button--ghost {
+  background-color: transparent;
+  border: 1.5px solid var(--border-color);
+  color: var(--white-color);
+}
+
+.button--ghost:hover {
+  border-color: var(--first-color);
+  color: var(--first-color);
+  background-color: hsla(var(--hue), 75%, 60%, 0.1);
+  box-shadow: 0 8px 24px hsla(var(--hue), 75%, 60%, 0.2);
 }
 
 /*=============== BLOBS ===============*/
@@ -519,6 +532,13 @@ img {
 .about__description {
   line-height: 1.7;
   margin-bottom: 2rem;
+}
+
+.about__buttons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
 /*=============== WORK SECTION ===============*/
