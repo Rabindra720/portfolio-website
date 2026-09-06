@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <circle cx="24" cy="24" r="22" fill="#222222" stroke="#444444" stroke-width="1.5"/>
+  <text x="24" y="29" font-family="'Syne', 'Poppins', sans-serif" font-size="14" font-weight="700" fill="#EEEEEE" text-anchor="middle" letter-spacing="-0.5">ex</text>
+  <text x="24" y="38" font-family="'Poppins', sans-serif" font-size="6" font-weight="600" fill="#888888" text-anchor="middle" letter-spacing="1">PRESS</text>
+</svg>
